@@ -69,6 +69,11 @@ hr {
   margin-bottom: 0;
 }
 
+.website-link {
+  text-decoration: none;
+  color: #EAF6F6;
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
